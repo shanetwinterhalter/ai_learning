@@ -1,2 +1,9 @@
 torch
 numpy
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+xformers
+matplotlib
