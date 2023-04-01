@@ -2,3 +2,5 @@ venv/*
 input.txt
 models/*
 __pycache__
+content
+train_*
