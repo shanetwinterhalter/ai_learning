@@ -7,3 +7,6 @@ scipy
 safetensors
 xformers
 matplotlib
+datasets
+deepspeed
+bitsandbytes
